@@ -1,0 +1,20 @@
+Comment,Designator,FootPrint,LCSC Part,Manufacturer
+10nF,C1,Capacitor_SMD:C_0603_1608Metric,GRM033R71A103KA01D,Murata Electronics
+100nF,C2,Capacitor_SMD:C_0603_1608Metric,02016D104KAT2A,AVX
+10uF,C3,Capacitor_SMD:C_0603_1608Metric,CL10A106KQ8NNNC,Samsung Electro-Mechanics
+10uF,C4,Capacitor_SMD:C_0603_1608Metric,CL10A106KQ8NNNC,Samsung Electro-Mechanics
+1000uF,C5,Imports:CAPAE1030X1050N,UWT0J102MNL1GS,Nichicon
+100nF,C6,Capacitor_SMD:C_0603_1608Metric,02016D104KAT2A,AVX
+SN74AHCT125PWR,IC1,SOP65P640X120-14N,SN74AHCT125PWR,Texas Instruments
+MIC5239-3.3YS-TR,IC2,Imports:SOT230P700X180-4N,MIC5239-3.3YS-TR,Microchip
+Conn_02x16_Odd_Even,J1,Connector_PinHeader_2.54mm:PinHeader_2x16_P2.54mm_Vertical,67996-416HLF,Amphenol FCI
+Conn_02x03_Counter_Clockwise,J2,Imports:SOP254P980X380-6N,A6S-3102-H,Omron Electronics
+Conector,J3,Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Vertical,22-28-4070,Molex
+Conector,J4,Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Vertical,22-28-4070,Molex
+Screw_Terminal_01x02,J5,Imports:691214110002,691214110002,Wurth Elektronik
+Screw_Terminal_01x02,J6,Imports:691214110002,691214110002,Wurth Elektronik
+10K,R2,Resistor_SMD:R_0805_2012Metric,CRCW080510K0FKEAC,Vishay / Dale
+10K,R3,Resistor_SMD:R_0805_2012Metric,CRCW080510K0FKEAC,Vishay / Dale
+10K,R4,Resistor_SMD:R_0805_2012Metric,CRCW080510K0FKEAC,Vishay / Dale
+MCP23017_SO,U1,Package_SO:SOIC-28W_7.5x17.9mm_P1.27mm,MCP23017T-E/SO,Microchip Technology
+
