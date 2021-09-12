@@ -8,5 +8,5 @@ Cuando esté diseñado el tablero subiré los planos. (12/09/2021)
 ------------------------------------------------------------------------------------------
 Ficheros subidos.
 ==================
-Tablero Juegos.zip --> Diseño del tablero en KiCad.
+Tablero Juegos.zip --> Diseño del tablero en KiCad.<br>
 Tablero Juegos_Gerber.zip --> Fichero para subir a la página jlcpcb.com para que fabriquen los PCB's
