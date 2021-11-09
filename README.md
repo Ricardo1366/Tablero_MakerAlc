@@ -5,7 +5,7 @@ El diseño se ha hecho para adjuntarlo a un tablero con una matriz de leds intel
 (WS2812B) de 8x8 y 16 botones, 8 para identificar la fila/columna y 8 para otras funciones.<br>
 
 ------------------------------------------------------------------------------------------
-Ficheros subidos. (09/11/2021
-==================
+Ficheros subidos. (09/11/2021)
+==============================
 Tablero Juegos.zip --> Diseño del tablero en KiCad.<br>
 Tablero Juegos_Gerber.zip --> Fichero para subir a la página jlcpcb.com para que fabriquen los PCB's
