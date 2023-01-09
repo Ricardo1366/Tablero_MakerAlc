@@ -1,4 +1,4 @@
-# Tablero_Juego
+# Tablero MakerAlc
 Placa diseñada para un Arduino nano every con un expansor de puertos "PCF8575".<br>
 El diseño permite controlar mediante el protocolo I2C el expansor con 16 pulsadores.<br>
 El diseño se ha hecho para adjuntarlo a un tablero con una matriz de leds inteligentes
