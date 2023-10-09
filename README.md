@@ -7,5 +7,5 @@ El diseño se ha hecho para adjuntarlo a un tablero con una matriz de leds intel
 ------------------------------------------------------------------------------------------
 Ficheros subidos. (09/10/2023)
 ==============================
-Tablero (MakerAlc).zip --> Diseño del tablero en KiCad.<br>
-Tablero (MakerAlc)(Gerber).zip --> Fichero para subir a la página jlcpcb.com para que fabriquen los PCB's
+Tablero juegos.zip --> Diseño del tablero en KiCad.<br>
+Tablero juegos_Gerber.zip --> Fichero para subir a la página jlcpcb.com para que fabriquen los PCB's
